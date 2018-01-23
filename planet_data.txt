@@ -1,2 +1,5 @@
 planet size color
 jupiter big red_spot 
+mars small red 
+venus small white
+earth small full of morons 
